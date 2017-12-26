@@ -11,6 +11,14 @@ public class Winter {
 	private int dauerDesWinters;
 	
 	//test
+	
+	//a few more line to add here and there
+	
+	
+	
+	
+	
+	
 	Winter(){}
 	
 	Winter(int x){
