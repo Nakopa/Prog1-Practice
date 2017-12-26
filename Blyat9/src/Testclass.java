@@ -9,8 +9,8 @@ public class Testclass {
 		Logger Lg = Logger.getLogger("ayy");
 		Lg.log(Level.FINE, Boolean.toString(W.equals(B))); //also wirklich nur, wenn es das gleiche objekt ist
 		System.out.println(W.getClass());
-		Lg.
-		
+		//Lg.
+		//lg und xd
 
 	}
 
