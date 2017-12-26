@@ -10,6 +10,7 @@ public class Winter {
 	private int aktuellerTag = 1;
 	private int dauerDesWinters;
 	
+	//test
 	Winter(){}
 	
 	Winter(int x){
